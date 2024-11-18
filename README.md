@@ -36,6 +36,10 @@
 -TMDB image CDN URL
 -made the browse page amazing with tailwind css
 -usePopularMovies Custom hook
+-GPT Search page
+-GPT Search bar
+-(BONUS)Multi-language feature in our app
+-
 
 
 # Features

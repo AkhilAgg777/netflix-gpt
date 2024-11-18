@@ -8,7 +8,7 @@ const useMovieTrailer = (movieId) => {
   //const [trailerId, setTrailerId] = useState(null);
 
   const getMovieVideos = async () => {
-    const data = fetch(
+    const data = await fetch(
       "https://api.themoviedb.org/3/movie/" +
         movieId +
         "/videos?language=en-US",
