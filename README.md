@@ -78,7 +78,7 @@
 
 -(BONUS)Multi-language feature in our app
 
-- Gpt Open AI Api key
+-Gpt Open AI Api key
 
 -Gpt search API call
 
@@ -97,17 +97,29 @@
 -Made our site responsive
 
 # Features
+
 -Login/Sign Up
+    
     -Sign In/Sign Up form
+    
     -redirect to Browse page
+
 -Browse(after authentication)
+    
     -Header
+    
     -Main Movie
+        
         -Trailer in Background
+        
         -Title & Description
+        
         -MovieSuggestions
+            
             -MovieLists*N
 
 -Netflix GPT
+    
     -Search bar
+    
     -Movie Suggestions
